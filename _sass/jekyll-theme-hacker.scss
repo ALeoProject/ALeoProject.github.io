@@ -45,6 +45,16 @@ li {
   line-height: 1.4 ;
 }
 
+// my stuff for the header links
+#pages_list .nav_btn {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+//
+
 /* Header, <header>
    header   - container
    h1       - project name
